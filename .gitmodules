@@ -1,0 +1,3 @@
+[submodule "repos/config_firefox"]
+	path = repos/config_firefox
+	url = https://github.com/askolds11/config_firefox.git
